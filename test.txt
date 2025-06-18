@@ -1,4 +1,4 @@
 first line
 second line in origin
 third line in origin
-local fourth linex
+fourth line in origin
